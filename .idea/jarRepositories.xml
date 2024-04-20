@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="experienceplatform-dev-release" />
+      <option name="name" value="Experience Platform Dev Release Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-experienceplatform-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="experienceplatform-dev-snapshot" />
+      <option name="name" value="Experience Platform Dev Release Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-experienceplatform-snapshot-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/central-maven-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-releases" />
+      <option name="name" value="ASR Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-snapshots" />
+      <option name="name" value="ASR Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-selfservicedev-snapshot" />
+      <option name="name" value="Self Service Dev Snapshot Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-selfservice-snapshot-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="selfservice-releases" />
+      <option name="name" value="Self Service Release Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-selfservice-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-selfservice-dev-release" />
+      <option name="name" value="Self Service Dev Release Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-selfservice-release-local/" />
+    </remote-repository>
+  </component>
+</project>
